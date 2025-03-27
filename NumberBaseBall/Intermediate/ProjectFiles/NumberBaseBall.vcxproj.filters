@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\NumberBaseBall.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\NumberBaseBall.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\NumberBaseBallEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\NumberBaseBall">
+      <UniqueIdentifier>{50F4A2FB-7DA7-3239-B008-C14C50DEEDB9}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\NumberBaseBall\BaseBallGameModeBase.cpp">
+      <Filter>Source\NumberBaseBall</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NumberBaseBall\BaseBallGameModeBase.h">
+      <Filter>Source\NumberBaseBall</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\NumberBaseBall\NumberBaseBall.Build.cs">
+      <Filter>Source\NumberBaseBall</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\NumberBaseBall\NumberBaseBall.cpp">
+      <Filter>Source\NumberBaseBall</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NumberBaseBall\NumberBaseBall.h">
+      <Filter>Source\NumberBaseBall</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

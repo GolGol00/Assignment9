@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "NumberBaseBall",
+			"Path": "..\\Source\\NumberBaseBall.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "NumberBaseBallEditor",
+			"Path": "..\\Source\\NumberBaseBallEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
