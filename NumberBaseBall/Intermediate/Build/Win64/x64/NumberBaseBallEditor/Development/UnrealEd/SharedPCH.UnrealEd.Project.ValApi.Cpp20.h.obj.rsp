@@ -1,4 +1,4 @@
-"C:\Github\NumberBaseBall\Intermediate\Build\Win64\x64\NumberBaseBallEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.cpp"
+"C:\Github\Assignment9\NumberBaseBall\Intermediate\Build\Win64\x64\NumberBaseBallEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.cpp"
 /I "."
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\UnrealEd\UHT"
 /I "Programs\UnrealLightmass\Public"
@@ -290,10 +290,10 @@
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\winrt"
-/Yc"C:\Github\NumberBaseBall\Intermediate\Build\Win64\x64\NumberBaseBallEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/Fp"C:\Github\NumberBaseBall\Intermediate\Build\Win64\x64\NumberBaseBallEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
-/Fo"C:\Github\NumberBaseBall\Intermediate\Build\Win64\x64\NumberBaseBallEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
-/sourceDependencies "C:\Github\NumberBaseBall\Intermediate\Build\Win64\x64\NumberBaseBallEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.dep.json"
+/Yc"C:\Github\Assignment9\NumberBaseBall\Intermediate\Build\Win64\x64\NumberBaseBallEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/Fp"C:\Github\Assignment9\NumberBaseBall\Intermediate\Build\Win64\x64\NumberBaseBallEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
+/Fo"C:\Github\Assignment9\NumberBaseBall\Intermediate\Build\Win64\x64\NumberBaseBallEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+/sourceDependencies "C:\Github\Assignment9\NumberBaseBall\Intermediate\Build\Win64\x64\NumberBaseBallEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.dep.json"
 /Zc:inline
 /nologo
 /Oi

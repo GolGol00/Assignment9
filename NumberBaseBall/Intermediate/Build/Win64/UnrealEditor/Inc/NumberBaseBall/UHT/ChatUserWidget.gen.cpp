@@ -153,14 +153,14 @@ UChatUserWidget::~UChatUserWidget() {}
 // End Class UChatUserWidget
 
 // Begin Registration
-struct Z_CompiledInDeferFile_FID_Github_NumberBaseBall_Source_NumberBaseBall_ChatUserWidget_h_Statics
+struct Z_CompiledInDeferFile_FID_Github_Assignment9_NumberBaseBall_Source_NumberBaseBall_ChatUserWidget_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_UChatUserWidget, UChatUserWidget::StaticClass, TEXT("UChatUserWidget"), &Z_Registration_Info_UClass_UChatUserWidget, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UChatUserWidget), 488907350U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Github_NumberBaseBall_Source_NumberBaseBall_ChatUserWidget_h_1653018161(TEXT("/Script/NumberBaseBall"),
-	Z_CompiledInDeferFile_FID_Github_NumberBaseBall_Source_NumberBaseBall_ChatUserWidget_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Github_NumberBaseBall_Source_NumberBaseBall_ChatUserWidget_h_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Github_Assignment9_NumberBaseBall_Source_NumberBaseBall_ChatUserWidget_h_1653018161(TEXT("/Script/NumberBaseBall"),
+	Z_CompiledInDeferFile_FID_Github_Assignment9_NumberBaseBall_Source_NumberBaseBall_ChatUserWidget_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Github_Assignment9_NumberBaseBall_Source_NumberBaseBall_ChatUserWidget_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // End Registration

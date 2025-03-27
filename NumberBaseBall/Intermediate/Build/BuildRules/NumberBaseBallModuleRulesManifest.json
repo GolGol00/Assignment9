@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Github\\NumberBaseBall\\Source\\NumberBaseBall\\NumberBaseBall.Build.cs",
-		"C:\\Github\\NumberBaseBall\\Source\\NumberBaseBall.Target.cs",
-		"C:\\Github\\NumberBaseBall\\Source\\NumberBaseBallEditor.Target.cs"
+		"C:\\Github\\Assignment9\\NumberBaseBall\\Source\\NumberBaseBall\\NumberBaseBall.Build.cs",
+		"C:\\Github\\Assignment9\\NumberBaseBall\\Source\\NumberBaseBall.Target.cs",
+		"C:\\Github\\Assignment9\\NumberBaseBall\\Source\\NumberBaseBallEditor.Target.cs"
 	],
 	"EngineVersion": "5.4.4"
 }
